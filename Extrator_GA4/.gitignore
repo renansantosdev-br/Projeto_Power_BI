@@ -1,0 +1,15 @@
+# Ignorar Credenciais e Chaves (NUNCA SUBIR ISSO)
+config/*.json
+*.json
+.env
+
+# Ignorar arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ignorar logs e saídas locais
+logs/
+output/
+
+# Ignorar configurações do editor
+.vscode/

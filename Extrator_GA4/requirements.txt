@@ -1,0 +1,4 @@
+﻿pandas
+google-analytics-data
+sqlalchemy
+pyodbc
