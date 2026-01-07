@@ -8,8 +8,8 @@ from sqlalchemy import create_engine
 
 # --- 1. CONFIGURAÇÕES GERAIS ---
 # Ajuste de datas conforme a necessidade
-DATA_INICIO = date(2024, 8, 21)
-DATA_FIM = date(2025, 1, 31)
+DATA_INICIO = date(2025, 2, 1)
+DATA_FIM = date(2025, 12, 31)
 
 
 SERVER = 'Renan_RFS_DEV\\SQLEXPRESS'
